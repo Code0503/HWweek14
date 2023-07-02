@@ -1,0 +1,54 @@
+2023-07-01 22:07:351 INFO  RegisterPage :66 - Click on Register Link : [[ChromeDriver: chrome on WINDOWS (8e3b9b7fab3f0c9ad0c54c81064a4dd2)] -> xpath: //div[@id='loginPanel']/p[2]/a]
+2023-07-01 22:07:952 INFO  RegisterPage :70 - Enter firstname : [[ChromeDriver: chrome on WINDOWS (8e3b9b7fab3f0c9ad0c54c81064a4dd2)] -> id: customer.firstName]
+2023-07-01 22:07:16 INFO  RegisterPage :74 - Enter lastname : [[ChromeDriver: chrome on WINDOWS (8e3b9b7fab3f0c9ad0c54c81064a4dd2)] -> id: customer.lastName]
+2023-07-01 22:07:66 INFO  RegisterPage :78 - Enter first line of the address : [[ChromeDriver: chrome on WINDOWS (8e3b9b7fab3f0c9ad0c54c81064a4dd2)] -> id: customer.address.street]
+2023-07-01 22:07:176 INFO  RegisterPage :86 - Enter State[[ChromeDriver: chrome on WINDOWS (8e3b9b7fab3f0c9ad0c54c81064a4dd2)] -> id: customer.address.state]
+2023-07-01 22:07:227 INFO  RegisterPage :90 - Enter PostCode[[ChromeDriver: chrome on WINDOWS (8e3b9b7fab3f0c9ad0c54c81064a4dd2)] -> id: customer.address.zipCode]
+2023-07-01 22:07:330 INFO  RegisterPage :98 - Enter SSN[[ChromeDriver: chrome on WINDOWS (8e3b9b7fab3f0c9ad0c54c81064a4dd2)] -> id: customer.ssn]
+2023-07-01 22:07:387 INFO  RegisterPage :110 - Enter username[[ChromeDriver: chrome on WINDOWS (8e3b9b7fab3f0c9ad0c54c81064a4dd2)] -> id: customer.username]
+2023-07-01 22:07:476 INFO  RegisterPage :118 - Enter confirm password[[ChromeDriver: chrome on WINDOWS (8e3b9b7fab3f0c9ad0c54c81064a4dd2)] -> id: repeatedPassword]
+2023-07-01 22:07:831 INFO  RegisterPage :106 - Verify registration is successful: [[ChromeDriver: chrome on WINDOWS (8e3b9b7fab3f0c9ad0c54c81064a4dd2)] -> css selector: div#rightPanel>p]
+2023-07-01 22:07:348 INFO  RegisterPage :66 - Click on Register Link : [[ChromeDriver: chrome on WINDOWS (3bb530780b30cdcca69426eb3f36063e)] -> xpath: //div[@id='loginPanel']/p[2]/a]
+2023-07-01 22:07:725 INFO  RegisterPage :102 - Verify  user on Register page: [[ChromeDriver: chrome on WINDOWS (3bb530780b30cdcca69426eb3f36063e)] -> xpath: //div[@id='rightPanel']/h1]
+2023-07-01 22:07:780 INFO  LoginPage :81 - Enter username :Java
+2023-07-01 22:07:838 INFO  LoginPage :83 - Enter username :0123456
+2023-07-01 22:07:389 INFO  LoginPage :81 - Enter username :pav
+2023-07-01 22:07:452 INFO  LoginPage :83 - Enter username :23456
+2023-07-01 22:07:721 INFO  LoginPage :81 - Enter username :Java
+2023-07-01 22:07:787 INFO  LoginPage :83 - Enter username :0123456
+2023-07-01 22:07:84 INFO  RegisterPage :66 - Click on Register Link : [[ChromeDriver: chrome on WINDOWS (233aed0416cf76f1967f3e4ca21709d0)] -> xpath: //div[@id='loginPanel']/p[2]/a]
+2023-07-01 22:07:610 INFO  RegisterPage :70 - Enter firstname : [[ChromeDriver: chrome on WINDOWS (233aed0416cf76f1967f3e4ca21709d0)] -> id: customer.firstName]
+2023-07-01 22:07:686 INFO  RegisterPage :74 - Enter lastname : [[ChromeDriver: chrome on WINDOWS (233aed0416cf76f1967f3e4ca21709d0)] -> id: customer.lastName]
+2023-07-01 22:07:737 INFO  RegisterPage :78 - Enter first line of the address : [[ChromeDriver: chrome on WINDOWS (233aed0416cf76f1967f3e4ca21709d0)] -> id: customer.address.street]
+2023-07-01 22:07:844 INFO  RegisterPage :86 - Enter State[[ChromeDriver: chrome on WINDOWS (233aed0416cf76f1967f3e4ca21709d0)] -> id: customer.address.state]
+2023-07-01 22:07:895 INFO  RegisterPage :90 - Enter PostCode[[ChromeDriver: chrome on WINDOWS (233aed0416cf76f1967f3e4ca21709d0)] -> id: customer.address.zipCode]
+2023-07-01 22:07:997 INFO  RegisterPage :98 - Enter SSN[[ChromeDriver: chrome on WINDOWS (233aed0416cf76f1967f3e4ca21709d0)] -> id: customer.ssn]
+2023-07-01 22:07:53 INFO  RegisterPage :110 - Enter username[[ChromeDriver: chrome on WINDOWS (233aed0416cf76f1967f3e4ca21709d0)] -> id: customer.username]
+2023-07-01 22:07:142 INFO  RegisterPage :118 - Enter confirm password[[ChromeDriver: chrome on WINDOWS (233aed0416cf76f1967f3e4ca21709d0)] -> id: repeatedPassword]
+2023-07-01 22:07:480 INFO  RegisterPage :106 - Verify registration is successful: [[ChromeDriver: chrome on WINDOWS (233aed0416cf76f1967f3e4ca21709d0)] -> css selector: div#rightPanel>p]
+2023-07-01 22:07:668 INFO  RegisterPage :66 - Click on Register Link : [[ChromeDriver: chrome on WINDOWS (1a8c008d9a30ef3c08e1e05339758585)] -> xpath: //div[@id='loginPanel']/p[2]/a]
+2023-07-01 22:07:63 INFO  RegisterPage :102 - Verify  user on Register page: [[ChromeDriver: chrome on WINDOWS (1a8c008d9a30ef3c08e1e05339758585)] -> xpath: //div[@id='rightPanel']/h1]
+2023-07-01 22:07:903 INFO  LoginPage :81 - Enter username :Ten
+2023-07-01 22:07:972 INFO  LoginPage :83 - Enter username :Ben0101
+2023-07-01 22:07:682 INFO  LoginPage :81 - Enter username :pav
+2023-07-01 22:07:741 INFO  LoginPage :83 - Enter username :23456
+2023-07-01 22:07:736 INFO  LoginPage :81 - Enter username :Ten
+2023-07-01 22:07:789 INFO  LoginPage :83 - Enter username :Ben0101
+2023-07-01 22:07:486 INFO  RegisterPage :66 - Click on Register Link : [[ChromeDriver: chrome on WINDOWS (e8d7acf0ebb8cb562d45b89f951e1af6)] -> xpath: //div[@id='loginPanel']/p[2]/a]
+2023-07-01 22:07:877 INFO  RegisterPage :70 - Enter firstname : [[ChromeDriver: chrome on WINDOWS (e8d7acf0ebb8cb562d45b89f951e1af6)] -> id: customer.firstName]
+2023-07-01 22:07:939 INFO  RegisterPage :74 - Enter lastname : [[ChromeDriver: chrome on WINDOWS (e8d7acf0ebb8cb562d45b89f951e1af6)] -> id: customer.lastName]
+2023-07-01 22:07:991 INFO  RegisterPage :78 - Enter first line of the address : [[ChromeDriver: chrome on WINDOWS (e8d7acf0ebb8cb562d45b89f951e1af6)] -> id: customer.address.street]
+2023-07-01 22:07:100 INFO  RegisterPage :86 - Enter State[[ChromeDriver: chrome on WINDOWS (e8d7acf0ebb8cb562d45b89f951e1af6)] -> id: customer.address.state]
+2023-07-01 22:07:149 INFO  RegisterPage :90 - Enter PostCode[[ChromeDriver: chrome on WINDOWS (e8d7acf0ebb8cb562d45b89f951e1af6)] -> id: customer.address.zipCode]
+2023-07-01 22:07:250 INFO  RegisterPage :98 - Enter SSN[[ChromeDriver: chrome on WINDOWS (e8d7acf0ebb8cb562d45b89f951e1af6)] -> id: customer.ssn]
+2023-07-01 22:07:303 INFO  RegisterPage :110 - Enter username[[ChromeDriver: chrome on WINDOWS (e8d7acf0ebb8cb562d45b89f951e1af6)] -> id: customer.username]
+2023-07-01 22:07:392 INFO  RegisterPage :118 - Enter confirm password[[ChromeDriver: chrome on WINDOWS (e8d7acf0ebb8cb562d45b89f951e1af6)] -> id: repeatedPassword]
+2023-07-01 22:07:726 INFO  RegisterPage :106 - Verify registration is successful: [[ChromeDriver: chrome on WINDOWS (e8d7acf0ebb8cb562d45b89f951e1af6)] -> css selector: div#rightPanel>p]
+2023-07-01 22:07:740 INFO  RegisterPage :66 - Click on Register Link : [[ChromeDriver: chrome on WINDOWS (e157c1ad657b30fe50f7c349dcaaf0be)] -> xpath: //div[@id='loginPanel']/p[2]/a]
+2023-07-01 22:07:94 INFO  RegisterPage :102 - Verify  user on Register page: [[ChromeDriver: chrome on WINDOWS (e157c1ad657b30fe50f7c349dcaaf0be)] -> xpath: //div[@id='rightPanel']/h1]
+2023-07-01 22:07:146 INFO  LoginPage :81 - Enter username :Ten
+2023-07-01 22:07:210 INFO  LoginPage :83 - Enter username :Ben0101
+2023-07-01 22:07:390 INFO  LoginPage :81 - Enter username :pav
+2023-07-01 22:07:456 INFO  LoginPage :83 - Enter username :23456
+2023-07-01 22:07:250 INFO  LoginPage :81 - Enter username :Ten
+2023-07-01 22:07:321 INFO  LoginPage :83 - Enter username :Ben0101
